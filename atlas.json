@@ -1,0 +1,73 @@
+{
+  "branch": "main",
+  "files": [
+    "book.adoc",
+    "partie-1/chapitre-1.adoc",
+    "partie-1/c1-systeme-binaire.adoc",
+    "partie-1/c1-transistors-portes.adoc",
+    "partie-1/c1-serie-74ls.adoc",
+    "partie-1/chapitre-2.adoc",
+    "partie-1/c2-breadboards.adoc",
+    "partie-1/c2-alimentation-bruit.adoc",
+    "partie-1/c2-boite-outils.adoc",
+    "partie-2/chapitre-3.adoc",
+    "partie-2/c3-theorie.adoc",
+    "partie-2/c3-composant-ne555.adoc",
+    "partie-2/c3-montage.adoc",
+    "partie-2/chapitre-4.adoc",
+    "partie-2/c4-theorie-bascules.adoc",
+    "partie-2/c4-composant-74ls173.adoc",
+    "partie-2/c4-montage.adoc",
+    "partie-2/chapitre-5.adoc",
+    "partie-2/c5-theorie-conflits.adoc",
+    "partie-2/c5-composant-74ls245.adoc",
+    "partie-2/c5-montage.adoc",
+    "partie-2/chapitre-6.adoc",
+    "partie-2/c6-theorie-addition.adoc",
+    "partie-2/c6-composants-alu.adoc",
+    "partie-2/c6-montage.adoc",
+    "partie-2/chapitre-7.adoc",
+    "partie-2/c7-theorie-pointeur.adoc",
+    "partie-2/c7-composant-74ls161.adoc",
+    "partie-2/c7-montage.adoc",
+    "partie-2/chapitre-8.adoc",
+    "partie-2/c8-theorie-mar.adoc",
+    "partie-2/c8-composant-74ls189.adoc",
+    "partie-2/c8-montage.adoc",
+    "partie-3/chapitre-9.adoc",
+    "partie-3/c9-theorie-instruction.adoc",
+    "partie-3/c9-microcode.adoc",
+    "partie-3/c9-eeprom-controle.adoc",
+    "partie-3/chapitre-10.adoc",
+    "partie-3/c10-theorie-decodage.adoc",
+    "partie-3/c10-afficheurs.adoc",
+    "partie-3/c10-eeprom-affichage.adoc",
+    "partie-4/chapitre-11.adoc",
+    "partie-4/c11-jeu-instructions.adoc",
+    "partie-4/c11-fibonacci.adoc",
+    "partie-4/c11-injection-ram.adoc",
+    "partie-4/chapitre-12.adoc",
+    "partie-4/c12-pannes-frequentes.adoc",
+    "partie-4/c12-methode-pas-a-pas.adoc",
+    "partie-4/c12-flags.adoc",
+    "annexes/datasheets.adoc"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "toc": true,
+      "syntaxHighlighting": true
+    },
+    "epub": {
+      "toc": true,
+      "syntaxHighlighting": true
+    },
+    "html": {
+      "toc": true,
+      "syntaxHighlighting": true
+    }
+  },
+  "title": "Construire son ordinateur 8 bits",
+  "subtitle": "Le guide pas à pas",
+  "lang": "fr"
+}

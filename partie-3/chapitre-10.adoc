@@ -1,0 +1,8 @@
+[[chapitre-10]]
+== Chapitre 10 : Le Module d'Affichage (Output Display)
+
+include::c10-theorie-decodage.adoc[]
+
+include::c10-afficheurs.adoc[]
+
+include::c10-eeprom-affichage.adoc[]

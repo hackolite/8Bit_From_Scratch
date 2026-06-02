@@ -1,0 +1,8 @@
+[[chapitre-2]]
+== Chapitre 2 : Le laboratoire du Maker
+
+include::c2-breadboards.adoc[]
+
+include::c2-alimentation-bruit.adoc[]
+
+include::c2-boite-outils.adoc[]

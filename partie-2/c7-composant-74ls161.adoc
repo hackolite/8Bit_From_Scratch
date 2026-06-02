@@ -1,0 +1,2 @@
+[[c7-composant-74ls161]]
+=== Le compteur synchrone 74LS161

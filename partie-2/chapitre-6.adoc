@@ -1,0 +1,8 @@
+[[chapitre-6]]
+== Chapitre 6 : L'Unité Arithmétique et Logique (ALU)
+
+include::c6-theorie-addition.adoc[]
+
+include::c6-composants-alu.adoc[]
+
+include::c6-montage.adoc[]

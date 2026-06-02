@@ -1,0 +1,8 @@
+[[chapitre-9]]
+== Chapitre 9 : L'Unité de Contrôle (Control Logic)
+
+include::c9-theorie-instruction.adoc[]
+
+include::c9-microcode.adoc[]
+
+include::c9-eeprom-controle.adoc[]

@@ -1,1 +1,0 @@
-# Câblage du bloc calculateur

@@ -1,0 +1,2 @@
+[[c6-montage]]
+=== Câblage du bloc calculateur

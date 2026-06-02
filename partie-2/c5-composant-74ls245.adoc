@@ -1,0 +1,2 @@
+[[c5-composant-74ls245]]
+=== Haute impédance et tampons 74LS245
