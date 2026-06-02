@@ -1,0 +1,8 @@
+[[chapitre-8]]
+== Chapitre 8 : La Mémoire Vive (RAM)
+
+include::c8-theorie-mar.adoc[]
+
+include::c8-composant-74ls189.adoc[]
+
+include::c8-montage.adoc[]

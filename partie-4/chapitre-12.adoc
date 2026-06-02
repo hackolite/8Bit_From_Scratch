@@ -1,0 +1,8 @@
+[[chapitre-12]]
+== Chapitre 12 : Guide de survie du débogage
+
+include::c12-pannes-frequentes.adoc[]
+
+include::c12-methode-pas-a-pas.adoc[]
+
+include::c12-flags.adoc[]

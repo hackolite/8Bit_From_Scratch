@@ -1,0 +1,2 @@
+[[c12-methode-pas-a-pas]]
+=== Traquer un bit perdu en mode pas à pas

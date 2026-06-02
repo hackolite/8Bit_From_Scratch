@@ -1,0 +1,2 @@
+[[c4-composant-74ls173]]
+=== Stockage 8 bits avec la puce 74LS173

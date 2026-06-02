@@ -1,0 +1,42 @@
+= Construire son ordinateur 8 bits : Le guide pas à pas
+:author: hackolite
+:doctype: book
+:media: screen
+:toc: left
+:toclevels: 2
+:icons: font
+:source-highlighter: rouge
+:lang: fr
+
+[preface]
+== Introduction
+
+Bienvenue dans *Construire son ordinateur 8 bits : Le guide pas à pas*.
+
+Ce livre suit un parcours en 4 parties et 12 chapitres pour concevoir un ordinateur 8 bits from scratch, de la théorie des portes logiques jusqu'au débogage de programmes en langage machine.
+
+include::partie-1/chapitre-1.adoc[]
+
+include::partie-1/chapitre-2.adoc[]
+
+include::partie-2/chapitre-3.adoc[]
+
+include::partie-2/chapitre-4.adoc[]
+
+include::partie-2/chapitre-5.adoc[]
+
+include::partie-2/chapitre-6.adoc[]
+
+include::partie-2/chapitre-7.adoc[]
+
+include::partie-2/chapitre-8.adoc[]
+
+include::partie-3/chapitre-9.adoc[]
+
+include::partie-3/chapitre-10.adoc[]
+
+include::partie-4/chapitre-11.adoc[]
+
+include::partie-4/chapitre-12.adoc[]
+
+include::annexes/datasheets.adoc[]

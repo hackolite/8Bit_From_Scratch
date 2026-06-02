@@ -1,0 +1,8 @@
+[[chapitre-7]]
+== Chapitre 7 : Le Compteur de Programme (Program Counter)
+
+include::c7-theorie-pointeur.adoc[]
+
+include::c7-composant-74ls161.adoc[]
+
+include::c7-montage.adoc[]

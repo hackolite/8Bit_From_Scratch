@@ -1,0 +1,8 @@
+[[chapitre-4]]
+== Chapitre 4 : Les Registres (A, B & Instruction)
+
+include::c4-theorie-bascules.adoc[]
+
+include::c4-composant-74ls173.adoc[]
+
+include::c4-montage.adoc[]

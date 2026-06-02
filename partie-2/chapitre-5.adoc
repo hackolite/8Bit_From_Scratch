@@ -1,0 +1,8 @@
+[[chapitre-5]]
+== Chapitre 5 : Le Bus Central
+
+include::c5-theorie-conflits.adoc[]
+
+include::c5-composant-74ls245.adoc[]
+
+include::c5-montage.adoc[]

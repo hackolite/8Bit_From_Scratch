@@ -1,0 +1,8 @@
+[[chapitre-3]]
+== Chapitre 3 : L'Horloge (Clock Module)
+
+include::c3-theorie.adoc[]
+
+include::c3-composant-ne555.adoc[]
+
+include::c3-montage.adoc[]

@@ -1,0 +1,2 @@
+[[c10-theorie-decodage]]
+=== Décodage binaire en décimal
